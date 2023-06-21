@@ -279,11 +279,11 @@ subexpresión1 | Operador | subexpresión2 |	Resultado
 ``False`` | ``or`` | ``True`` | ``True``
 ``False`` | ``or`` | ``False`` | ``False``
 
-Curso Propedútico de Python para Launch X - Innovacción Virtual.
+Curso Propedútico de Python para fastrack de python
 
-Material desarrollado con base en los contenidos de MSLearn y la metáfora de LaunchX, traducción e implementación por: Fernanda Ochoa - Learning Producer de LaunchX.
+Material desarrollado con base en los contenidos de MSLearn - 
 
 Redes:
-* GitHub: [FernandaOchoa](https://github.com/FernandaOchoa)
-* Twitter: [@imonsh](https://twitter.com/imonsh)
-* Instagram: [fherz8a](https://www.instagram.com/fherz8a/)
+* GitHub: [javierIA](https://github.com/javierIA)
+* Twitter: [@Xavi_Error](https://twitter.com/Xavi_Error)
+* Instagram: [xavierfloresx2](https://www.instagram.com/xavierfloresx2/)
