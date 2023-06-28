@@ -1,0 +1,11 @@
+.env
+.env/
+```
+I have tried to add the following to my .gitignore file:
+```
+.env
+.env/
+.env/*
+```
+But none of these seem to work. I have also tried to remove the file from the repo using:
+```
